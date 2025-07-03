@@ -1,9 +1,17 @@
-#Numeric Data
+#Operators
 
-num = 3
+#Addition(+)
+#Subtraction(-)
+#Multiplication(*)
+#Division(/)
+#Modulus(%)
+#Exponent(**)
 
-print(type(num))
+x = 10
+x -= 2
 
-num2 = 3.14
+print(x)  # Output: 12
 
-print(type(num2))
+
+
+
